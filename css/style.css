@@ -1,0 +1,19 @@
+.box{
+	min-height: 150px;
+	background-color: crimson;
+	margin-bottom: 10px;
+}
+h2{
+padding: 5px;
+text-align: center;
+font-family:  serif;
+	font-size: 30px;
+	font-weight: 400;
+	color: white;
+}
+p{ margin: 0 30px;
+	font-family:  serif;
+	font-size: 16px;
+	font-weight:300;
+	color: white;
+}
